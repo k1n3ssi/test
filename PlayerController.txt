@@ -2,5 +2,13 @@ using unityengine
 
 public class PlayerController : monomono
 {
-	create.Player();
+	public void start()
+	{
+		create.Player();
+	}
+
+	public void update()
+	{
+	
+	}	
 }
