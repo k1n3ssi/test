@@ -1,0 +1,6 @@
+using unityengine
+
+public class PlayerController : monomono
+{
+	create.Player();
+}
