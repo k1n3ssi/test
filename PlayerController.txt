@@ -9,6 +9,9 @@ public class PlayerController : monomono
 
 	public void update()
 	{
-	
+		if(Input.Button(Ket.Space))
+		{
+			игрок совершил прыжок;
+		}
 	}	
 }
